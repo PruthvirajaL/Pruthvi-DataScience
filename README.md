@@ -54,7 +54,7 @@ This project is licensed under the  'GNU GENERAL PUBLIC LICENSE' - see the [LICE
 
 I here by acknowledge that the work is purely for the learning purpose, hence the data set downloaded are from the public domain sites any one can use them education purpose and not for the commercial purpose. If you want to use the data set for commerical purpose please visit the data set sites from where I've downloaded the same. The link for each data set is provided in DataSourseLinks file. Further:
 
-* If you the code was used already, please let me know it whather the code is open soursed or not. 
+* If you feel that the code was used already, please let me know it whather the code is open soursed or not. 
 * Inspire the work and inpsire others with confidence. 
 * Let us put our hands together to gain and explore the knowledge. 
 * Thanks for all in advance. Happy learning. 
